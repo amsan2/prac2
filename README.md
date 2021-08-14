@@ -1,1 +1,25 @@
-# prac2
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>trisverygood</title>
+        <meta charset="utf-8">
+    </head>
+<body>
+    <section>
+    <h1>깜짝 이혼 탈출기! ~네? 갑자기 이혼이요?~</h1>
+    <image src="깜이탈.png" width=30%></image>
+    <h3><p>약칭: 깜이탈</p>
+    <p>형식: 레일로드</p>
+    <p>장르: 러브코미디</p>
+    <p>배경: 현대, 도시</p>
+    <p>라이터: 김익</p>
+    </h3>
+</section>
+<section>
+    <ol>
+        <li><a href="1.html" title="first">개요</a></li>
+        <li><a href="2.html" title="second">인장 미리보기</a></li>
+    </ol>
+</section>
+</body>
+</html>
